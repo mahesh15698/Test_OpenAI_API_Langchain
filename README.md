@@ -13,10 +13,12 @@ Welcome to the OpenAI LLM and Langchain tutorial! 🚀 This repository contains 
 Generative AI is a cutting-edge field that empowers machines to generate content autonomously. OpenAI's Language Model, a key player in this domain, is renowned for its ability to understand and generate human-like text.
 
 ### About OpenAI
-OpenAI is a leading AI research lab, pushing the boundaries of artificial intelligence to build transformative technologies.
+[OpenAI](https://www.openai.com/) is a leading AI research lab, pushing the boundaries of artificial intelligence to build transformative technologies.
 
 ### About Langchain
-Langchain is an innovative platform that enhances the interaction with AI models. Through seamless integration with OpenAI, Langchain brings a new level of accessibility and usability to the world of language models.
+[Langchain](https://www.langchain.com/) is an innovative platform that enhances the interaction with AI models. Through seamless integration with OpenAI, Langchain brings a new level of accessibility and usability to the world of language models.
+# About Open API Key
+[Open API Key](https://platform.openai.com/docs/quickstart?context=python) is a major requirement to access the all services of Open AI's llm models
 
 ### Getting Started
 Follow the tutorial notebook in this repository to get hands-on experience with OpenAI LLM and Langchain. Clone the repository and run the notebook to embark on your journey into the exciting realm of Generative AI.
